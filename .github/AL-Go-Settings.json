@@ -1,0 +1,8 @@
+{
+  "doNotPublishApps": false,
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/57c2b2df2f41385b543724e553f6d140e5e00036/.Modules/settings.schema.json",
+  "templateUrl": "https://github.com/businesscentralapps/tmpYm1bTi-AppSource@main",
+  "type": "AppSource App",
+  "MicrosoftTelemetryConnectionString": "",
+  "useCompilerFolder": false
+}
